@@ -1,2 +1,2 @@
-# Project-2-Group-2
+# CryptoPunk Interest - Consolidation of Information
 Group Project

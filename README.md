@@ -9,7 +9,9 @@ Our final design will be a website that allows the user to select the CrytpoPunk
 
 The target audience for our website would be those individuals who are interested in purchasing CryptoPunks and want to visually see the data represented in an easy to read format using data visualization tools. Right now on the LarvaLabs website, the data is listed in list format, and gets cluttered with bids & offers, while we are only interested in sales data.
 
-Links for inspiration:  https://www.larvalabs.com/cryptopunks -- CryptoPunks website
+Links for inspiration:  
+
+                        https://www.larvalabs.com/cryptopunks -- CryptoPunks website
 
                         http://subopt.org/priceseth.txt -- Sales Data
                         

@@ -1,5 +1,4 @@
-## CryptoPunk Interest - Consolidation of Information
-Group Project
+## CryptoPunk Interest - Data Visualization
 
 
 For our project, our group is interested in current technology trends, specifically NFTs, which stands for non-fungible tokens. With NFTs being a relatively new trend, we narrowed our focus to a popular collectible NFT that has been around for a few years and has an established market, CryptoPunks.
